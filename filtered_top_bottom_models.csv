@@ -1,0 +1,11 @@
+mean_test_score;param_model__optimizer;param_model__neurons;param_model__loss;param_model__kernel_initializer;param_model__dropout_rate;param_model__activation;param_epochs
+-5172.49684126742;adam;32;mse;random_uniform;0.3;relu;100
+-5497.332634895681;adam;32;mse;normal;0.3;relu;100
+-5601.906782586494;adam;32;mae;random_uniform;0.3;relu;100
+-6355.792175636449;adam;16;mae;random_uniform;0.3;relu;100
+-6838.140960293223;adam;32;mse;normal;0.3;relu;50
+;sgd;32;mse;random_uniform;0.2;relu;50
+;sgd;4;mse;normal;0.3;relu;50
+;sgd;32;mse;normal;0.3;relu;50
+;sgd;32;mse;random_uniform;0.3;relu;100
+;sgd;4;mse;normal;0.2;relu;50
